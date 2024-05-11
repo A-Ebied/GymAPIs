@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Adham", "duration": { "from": "9 AM", "to": "2 PM" } },
+  { "id": 2, "name": "Omar", "duration": { "from": "11 AM", "to": "5 PM" } },
+  { "id": 3, "name": "Osama", "duration": { "from": "9 AM", "to": "2 PM" } },
+  { "id": 4, "name": "Anas ali", "duration": { "from": "12 AM", "to": "2 PM" } }
+]

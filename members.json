@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Abdullah Mahmoud",
+    "nationalId": 123456,
+    "phoneNumber":1095627702,
+    "membership": { "from": "2024-4-1", "to": "2024-5-30", "cost": 600 },
+    "status": { "active": false, "freeze": true },
+    "trainerId": 2,
+    "deleted": false
+  },
+  {
+    "id": 2,
+    "name": "Khaled",
+    "nationalId": 135676,
+    "phoneNumber":1095627702,
+    "membership": { "from": "2024-3-30", "to": "2024-4-30", "cost": 200 },
+    "status": { "active": true, "freeze": false },
+    "trainerId": 1,
+    "deleted": false
+  },
+  {
+    "id": 3,
+    "name": "Mazen",
+    "nationalId": 124576,
+    "phoneNumber":1095627702,
+    "membership": { "from": "2024-4-30", "to": "2024-5-30", "cost": 0 },
+    "status": { "active": true, "freeze": false },
+    "trainerId": 1,
+    "deleted": true
+  },
+  {
+    "id": 4,
+    "name": "ali",
+    "nationalId": 124576,
+    "phoneNumber":1095627702,
+    "membership": { "from": "2024-4-30", "to": "2024-5-30", "cost": 0 },
+    "status": { "active": true, "freeze": false },
+    "trainerId": 0,
+    "deleted": true
+  }
+]
